@@ -10,7 +10,6 @@ gem 'font-awesome-rails'
 gem 'awesome_print'
 gem 'responders'
 
-
 #added by brenda
 gem 'activesupport'
 
