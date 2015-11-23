@@ -1,5 +1,6 @@
 #Active Schema Designer#
-> - Live Website: http://activeschema.herokuapp.com/
+> - Live Website: http://schemadesigner.herokuapp.com/
+
 
 > - Github Repository: http://github.com/NorCalDavid
 
